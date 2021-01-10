@@ -6,5 +6,4 @@ For more information about the book - [A Collection of Data Science Take-Home Ch
 This file included my solutions to the book <A Collection of Data Science Take-Home Challenges>. The purpose of this repository is for self-learning and refreshing. 
 
 The list of the projects - 
-
-#### 1. Conversion Rate
+1. Conversion Rate
